@@ -63,7 +63,7 @@ def main():
 
 def gen(nitroAmount, nitroType, nitroLink):
 
-    amount = 0
+    amount = 1
 
     with open("nitros.txt", "w") as file:
         file.write("")
